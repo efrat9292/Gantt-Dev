@@ -1,0 +1,147 @@
+body {
+  background-color: #c4ccd5;
+}
+.gantt_task_content {
+  color: #778CA2 !important;
+}
+
+.gantt_cell,
+.gantt_cell_tree {
+  width: 900px;
+}
+/* .gantt_grid_scale .gantt_grid_head_cell {
+  display: none;
+} */
+/* .gantt_tree_content {
+  display: none;
+} */
+.gantt_tree_icon,
+.gantt_file {
+  display: none;
+}
+
+.gantt_task_row {
+  display: none;
+}
+
+.gantt_line_wrapper {
+  display: none;
+}
+
+.gantt_add {
+  display: none;
+}
+
+.weekend {
+  background: #ecfbf8 !important;
+  color: #44d7b6 !important;
+  font-weight: 800 !important;
+}
+
+.gantt_task_progress_drag {
+  display: none !important;
+}
+.greenBorder .gantt_task_progress {
+  background-color: #34A38B !important;
+  color: white;
+}
+.greenBorder {
+  border-radius: 5px !important;
+  border: #34A38B 3px solid !important;
+  color: white !important;
+}
+.greenBorder:hover {
+  border-left: #34A38B 10px solid !important;
+  border-right: #34A38B 10px solid !important;
+  color: white !important;
+}
+.greenBorder .gantt_task_content{
+  color: white !important;
+}
+.pinkBorder {
+  border-radius: 5px !important;
+  border: #FD808B 3px solid !important;
+  background-color: white !important;
+}
+.pinkBorder:hover {
+  border-left: #FD808B 10px solid !important;
+  border-right: #FD808B 10px solid !important;
+}
+.pinkBorder .gantt_task_progress {
+  position: absolute;
+  background-color: #FD808B !important;
+  text-align: end;
+  align-items: end;
+}
+.orangeBorder {
+  border-radius: 5px !important;
+  border: #F8B520 3px solid !important;
+  background-color: white !important;
+}
+.orangeBorder:hover {
+  border-left: #F8B520 10px solid !important;
+  border-right: #F8B520 10px solid !important;
+}
+.orangeBorder .gantt_task_progress {
+  position: relative;
+  background-color: white !important;
+  text-align: right !important;
+  align-items: right !important;
+  align-content: right !important;
+}
+.gantt_task_progress {
+  background: red;
+}
+.txtAlign {
+  text-align: right;
+  /* background-color: yellow; */
+}
+.vv {
+  background-color: black;
+}
+
+/* .vv{
+  background-color: yellow !important;
+  color: black !important;
+} */
+/* .gantt_task_scale,
+.gantt_data_area,
+.gantt_scale_cell {
+  background-color: yellow !important;
+} */
+
+.canResize{
+  resize: both;
+  overflow: auto
+}
+
+/* .gantt_hor_scroll {
+  height: 0;
+  
+  width: 100%;
+  clear: both;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+} */
+/* .gantt_tree_content{
+  display: none;
+} */
+.gantt_resizer {
+  cursor: e-resize;
+  position: relative;
+}
+.gantt_layout_content .gantt_resizer_x .gantt_grid_resize_wrap{
+  background-color: red;
+  color: red;
+}
+.gantt_layout_cell .gantt_resizer .gantt_resizer_x .gantt_layout_cell_border_right{
+  background-color: red;
+  color: red;
+}
+.cardCss{
+  background-color:red;
+}
+
+.gantt_tree_content{
+  font-weight: 900;
+}
