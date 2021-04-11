@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Gantt-Dev/static/css/main.a7c371e8.chunk.css",
+    "main.js": "/Gantt-Dev/static/js/main.54503312.chunk.js",
+    "main.js.map": "/Gantt-Dev/static/js/main.54503312.chunk.js.map",
+    "runtime-main.js": "/Gantt-Dev/static/js/runtime-main.51da2fac.js",
+    "runtime-main.js.map": "/Gantt-Dev/static/js/runtime-main.51da2fac.js.map",
+    "static/css/2.cb11bccb.chunk.css": "/Gantt-Dev/static/css/2.cb11bccb.chunk.css",
+    "static/js/2.0f34cbf2.chunk.js": "/Gantt-Dev/static/js/2.0f34cbf2.chunk.js",
+    "static/js/2.0f34cbf2.chunk.js.map": "/Gantt-Dev/static/js/2.0f34cbf2.chunk.js.map",
+    "static/js/3.256b5d74.chunk.js": "/Gantt-Dev/static/js/3.256b5d74.chunk.js",
+    "static/js/3.256b5d74.chunk.js.map": "/Gantt-Dev/static/js/3.256b5d74.chunk.js.map",
+    "index.html": "/Gantt-Dev/index.html",
+    "static/css/2.cb11bccb.chunk.css.map": "/Gantt-Dev/static/css/2.cb11bccb.chunk.css.map",
+    "static/css/main.a7c371e8.chunk.css.map": "/Gantt-Dev/static/css/main.a7c371e8.chunk.css.map",
+    "static/js/2.0f34cbf2.chunk.js.LICENSE.txt": "/Gantt-Dev/static/js/2.0f34cbf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51da2fac.js",
+    "static/css/2.cb11bccb.chunk.css",
+    "static/js/2.0f34cbf2.chunk.js",
+    "static/css/main.a7c371e8.chunk.css",
+    "static/js/main.54503312.chunk.js"
+  ]
+}
